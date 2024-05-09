@@ -1,4 +1,4 @@
-学部4年次のオブジェクト指向学習ゲームプロジェクト
+<h1>学部4年次のオブジェクト指向学習ゲームプロジェクト</h1>
 概要
 ゲーム開発プロジェクトを通じてオブジェクト指向を学ぶことを目指す。
 参考資料を元に独自に作成。コードは丸パクリしていないが、一部フィールドなどを借用。
@@ -14,5 +14,5 @@ Pygameバージョン: 2.5.2 (SDL 2.28.3)
 戦闘時のウィンドウが重なる
 モンスター撃破時のメッセージがPCの性能により高速で表示され消えてしまったり、途中で途切れたりする。
 参考資料
-Pythonで学ぶゲームプログラミング入門
-Pygame Tutorial for Beginners - Python Game Development Course
+https://aidiary.hatenablog.com/entry/20080507/1269694935
+https://www.youtube.com/watch?v=RpB0rqhTSvw
